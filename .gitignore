@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+
+# Downloaded stock data
+data/
+
+# VSCode settings
+.vscode/

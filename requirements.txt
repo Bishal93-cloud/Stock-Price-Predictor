@@ -1,0 +1,10 @@
+# For fetching stock data
+yfinance
+yahooquery
+
+# For data analysis and plotting
+pandas
+matplotlib
+
+# Note: You'll need a model library like scikit-learn or tensorflow later
+scikit-learn
